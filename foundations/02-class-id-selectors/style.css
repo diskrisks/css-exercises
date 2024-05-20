@@ -1,6 +1,6 @@
 .odd {
     background-color: pink;
-    font: "Helvetica", "Verdana", sans-serif;
+    font-family: "Helvetica", "Verdana", sans-serif;
 }
 
 .odd.cooler {

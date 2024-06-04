@@ -1,0 +1,15 @@
+.buttons{
+    font-size: 28px;
+    font: Helvetica;
+}
+
+.buttons#first{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.buttons#second{
+    background-color: yellow;
+    color: black;
+}

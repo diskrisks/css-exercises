@@ -10,6 +10,19 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+
+}
+
+.plantgrid{
+  display: flex;
+  justify-content: space-between;
+  gap: 52px;
+  text-align: center;
+margin: 32px 52px;
+}
+.item{
+  max-width: 200px;
 }
 
 /* do not edit this footer */
